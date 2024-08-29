@@ -57,12 +57,3 @@ To run this project locally, follow these steps:
 ## Video Demonstration
 
 For a complete walkthrough of the app's features and how to use it, check out the video demo on [YouTube](https://youtu.be/luzZdJDv7L0).
-
-"""
-
-# Writing the content to a README.md file
-file_path = "/mnt/data/README.md"
-with open(file_path, 'w') as readme_file:
-    readme_file.write(readme_content)
-
-file_path
