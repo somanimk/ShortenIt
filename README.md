@@ -1,7 +1,4 @@
 # Full Stack URL Shortener with React JS, Tailwind CSS, Supabase, Shadcn UI Tutorial 🔥🔥
-# Creating a README.md file with the provided content and usage instructions
-
-readme_content = """
 # URL Shortener App
 
 ## Overview
@@ -23,7 +20,6 @@ The URL Shortener App is a full-stack web application designed to convert long U
 
 - **Frontend**: React.js, Tailwind CSS, Shadcn UI
 - **Backend**: Supabase
-- **Deployment**: [Include deployment method if applicable]
 
 ## Installation
 
@@ -62,17 +58,6 @@ To run this project locally, follow these steps:
 
 For a complete walkthrough of the app's features and how to use it, check out the video demo on [YouTube](https://youtu.be/luzZdJDv7L0).
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[Include license information here if applicable]
-
-## Contact
-
-If you have any questions or need further assistance, feel free to contact me at mayank06011999@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mayanksomani/).
 """
 
 # Writing the content to a README.md file
